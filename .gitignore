@@ -1,0 +1,7 @@
+*~
+*.zip
+*.log
+*.jou
+*.wdb
+build/
+xsim.dir/
